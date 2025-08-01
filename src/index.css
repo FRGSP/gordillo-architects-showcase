@@ -26,19 +26,19 @@ All colors MUST be HSL.
     --muted: 220 5% 94%;
     --muted-foreground: 220 10% 45%;
 
-    --accent: 45 100% 65%;
-    --accent-foreground: 220 10% 15%;
+    --accent: 217 91% 35%;
+    --accent-foreground: 0 0% 98%;
 
     --destructive: 0 84.2% 60.2%;
     --destructive-foreground: 0 0% 98%;
 
     --border: 220 13% 91%;
     --input: 220 13% 91%;
-    --ring: 45 100% 65%;
+    --ring: 217 91% 35%;
 
     /* Custom design tokens */
     --gradient-hero: linear-gradient(135deg, hsl(220 10% 15%) 0%, hsl(220 15% 25%) 100%);
-    --gradient-accent: linear-gradient(135deg, hsl(45 100% 65%) 0%, hsl(35 100% 55%) 100%);
+    --gradient-accent: linear-gradient(135deg, hsl(217 91% 35%) 0%, hsl(217 91% 45%) 100%);
     --shadow-elegant: 0 4px 20px -4px hsl(220 10% 15% / 0.1);
     --shadow-card: 0 2px 10px -2px hsl(220 10% 15% / 0.05);
     --transition-smooth: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
